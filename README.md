@@ -28,11 +28,10 @@ This guide covers the steps to:
 
 ## Architecture
 
-![Architecture diagram](![image](https://github.com/user-attachments/assets/68228e6d-5823-4c43-9159-a22b039b6a6f))
-
-## Observability
+![image](https://github.com/user-attachments/assets/8d57a28a-91c6-4157-8217-5ee6393ec021)
 
 ![Grafana diagram](grafana.png)
+
 ![Prometheus diagram](prometheus.png)
 
 * A front-end web app in [Python](/vote) which lets you vote between two options
