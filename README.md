@@ -1,4 +1,4 @@
-# Automated Deployment of Scalable Applications on AWS EC2 with Kubernetes and Argo CD. Integrated with Prometheus & Grafana for metrics Visualization.
+# Automated Deployment of Scalable Applications on AWS EC2 with Kubernetes and Argo CD. 
 
 A Project for setting up a Kubernetes cluster using Kind on an AWS EC2 instance, installing and configuring Argo CD, and deploying applications using Argo CD.
 
@@ -7,6 +7,7 @@ A Project for setting up a Kubernetes cluster using Kind on an AWS EC2 instance,
 * AWS EC2: Infrastructure hosting for Kubernetes clusters.
 * Kubernetes Dashboard: User-friendly interface for managing containerized applications.
 * Argo CD: Continuous Delivery tool for automated application deployments.
+* Integrated with Prometheus & Grafana for metrics Visualization.
 
 Implemented Kubernetes dashboard for visual management of containerized applications on AWS EC2 instances.
 Utilized Argo CD for automated deployment pipelines, enhancing deployment efficiency by 60%.
@@ -27,7 +28,7 @@ This guide covers the steps to:
 
 ## Architecture
 
-![Architecture diagram](k8s-kind-voting-app.png)
+![Architecture diagram](![image](https://github.com/user-attachments/assets/68228e6d-5823-4c43-9159-a22b039b6a6f))
 
 ## Observability
 
