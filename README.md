@@ -11,12 +11,11 @@ A Project for setting up a Kubernetes cluster using Kind on an AWS EC2 instance,
 
 Implemented Kubernetes dashboard for visual management of containerized applications on AWS EC2 instances.
 Utilized Argo CD for automated deployment pipelines, enhancing deployment efficiency by 60%.
-Achieved seamless scaling and high availability, supporting 99.9% uptime for critical applications.
-This project description emphasizes your role in leveraging AWS EC2, Kubernetes, and Argo CD to optimize application deployment and management processes effectively.
+Achieved seamless scaling and high availability, supporting 99.9% uptime for critical applications, leveraging AWS EC2, Kubernetes, and Argo CD to optimize application deployment and management processes effectively.
 
 ## Overview
 
-This guide covers the steps to:
+Steps:
 - Launch an AWS EC2 instance.
 - Install Docker and Kind.
 - Create a Kubernetes cluster using Kind.
